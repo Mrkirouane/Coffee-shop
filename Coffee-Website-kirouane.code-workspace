@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "Coffee-Website",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Coffee-Website",
+    "liveServer.settings.port": 5501
+  }
+}
